@@ -1,3 +1,6 @@
 [submodule "vendor/pydata-book"]
 	path = vendor/pydata-book
 	url = https://github.com/wesm/pydata-book.git
+[submodule "vendor/code_snippets"]
+	path = vendor/code_snippets
+	url = https://github.com/CoreyMSchafer/code_snippets.git
