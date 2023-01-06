@@ -1,0 +1,3 @@
+[submodule "vendor/pydata-book"]
+	path = vendor/pydata-book
+	url = https://github.com/wesm/pydata-book.git
