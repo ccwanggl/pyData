@@ -7,3 +7,6 @@
 [submodule "vendor/algorithmic-trading-python"]
 	path = vendor/algorithmic-trading-python
 	url = https://github.com/nickmccullum/algorithmic-trading-python.git
+[submodule "vendor/lukepolson_youtube_channel"]
+	path = vendor/lukepolson_youtube_channel
+	url = https://github.com/lukepolson/youtube_channel.git
